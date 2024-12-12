@@ -64,7 +64,7 @@ Flower-Classifier/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Sourabh-Kumar04/Flower-Classifier.git
+   git clone https://github.com/srijan9999/Flower-Classifier.git
    cd Flower-Classifier
    ```
 
@@ -170,8 +170,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Sourabh Kumar - [GitHub Profile](https://github.com/Sourabh-Kumar04)
+Srijan Kumar - [GitHub Profile](https://github.com/srijan9999)
 
-Project Link: [Flower-Classifier](https://github.com/Sourabh-Kumar04/Flower-Classifier)
+Project Link: [Flower-Classifier](https://github.com/srijan9999/Flower-Classifier)
 
 For any additional questions or comments, please open an issue in the GitHub repository.
