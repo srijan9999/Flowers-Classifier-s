@@ -172,6 +172,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Srijan Kumar - [GitHub Profile](https://github.com/srijan9999)
 
-Project Link: [Flower-Classifier](https://github.com/srijan9999/Flower-Classifier-s)
+Project Link: [Flower-Classifier](https://github.com/srijan9999/Flowers-Classifier-s)
 
 For any additional questions or comments, please open an issue in the GitHub repository.
